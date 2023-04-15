@@ -1,4 +1,4 @@
-# big_data_a2
+# IS459 Big Data A2
 
 ## Folder Structure
 - Lambda
