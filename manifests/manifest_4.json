@@ -1,0 +1,13 @@
+{
+	"fileLocations": [
+		{
+			"URIs": ["s3://is459-a2-spotify-data/aggregate_data/15-04-2023_12:34:54/aggregate_by_danceability_acousticness_streams.csv"]
+		}
+	],
+	"globalUploadSettings": {
+		"format": "CSV",
+		"delimiter": ",",
+		"textqualifier": "\"",
+		"containsHeader": "true"
+	}
+}
