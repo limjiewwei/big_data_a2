@@ -1,5 +1,11 @@
 # IS459 Big Data A2
 
+## Overview of Data Pipeline
+![image](https://user-images.githubusercontent.com/80034115/232268939-611e6789-0b5a-4e79-aecd-7d3271b48968.png)
+
+## Tools Used
+![image](https://user-images.githubusercontent.com/80034115/232269290-35ecf93a-5f6f-4ec3-9acc-1c7622082cf5.png)
+
 ## Folder Structure
 - Lambda
   
